@@ -1,0 +1,601 @@
+cod_indicador,des_indicador,dt_referencia,valor,origem,fator_comercial,cluster
+11,Índice Geral,2018-01-01,4930.72,Américas,1,4
+11,Índice Geral,2018-02-01,4946.5,Américas,1,4
+11,Índice Geral,2018-03-01,4950.95,Américas,1,4
+11,Índice Geral,2018-04-01,4961.84,Américas,1,4
+11,Índice Geral,2018-05-01,4981.69,Américas,1,4
+11,Índice Geral,2018-06-01,5044.46,Américas,1,4
+11,Índice Geral,2018-07-01,5061.11,Américas,1,4
+11,Índice Geral,2018-08-01,5056.56,Américas,1,4
+11,Índice Geral,2018-09-01,5080.83,Américas,1,4
+11,Índice Geral,2018-10-01,5103.69,Américas,1,4
+11,Índice Geral,2018-11-01,5092.97,Américas,1,4
+11,Índice Geral,2018-12-01,5100.61,Américas,1,4
+11,Índice Geral,2019-01-01,5116.93,Américas,1,4
+11,Índice Geral,2019-02-01,5138.93,Américas,1,4
+11,Índice Geral,2019-03-01,5177.47,Américas,1,4
+11,Índice Geral,2019-04-01,5206.98,Américas,1,4
+11,Índice Geral,2019-05-01,5213.75,Américas,1,4
+11,Índice Geral,2019-06-01,5214.27,Américas,1,4
+11,Índice Geral,2019-07-01,5224.18,Américas,1,4
+11,Índice Geral,2019-08-01,5229.93,Américas,1,4
+11,Índice Geral,2019-09-01,5227.84,Américas,1,4
+11,Índice Geral,2019-10-01,5233.07,Américas,1,4
+11,Índice Geral,2019-11-01,5259.76,Américas,1,4
+11,Índice Geral,2019-12-01,5320.25,Américas,1,4
+11,Índice Geral,2020-01-01,5331.42,Américas,1,4
+11,Índice Geral,2020-02-01,5344.75,Américas,1,4
+11,Índice Geral,2020-03-01,5348.49,Américas,1,4
+11,Índice Geral,2020-04-01,5331.91,Américas,1,4
+11,Índice Geral,2020-05-01,5311.65,Américas,1,4
+11,Índice Geral,2020-06-01,5325.46,Américas,1,4
+11,Índice Geral,2020-07-01,5344.63,Américas,1,4
+11,Índice Geral,2020-08-01,5357.46,Américas,1,4
+11,Índice Geral,2020-09-01,5391.75,Américas,1,4
+11,Índice Geral,2020-10-01,5438.12,Américas,1,4
+11,Índice Geral,2020-11-01,5486.52,Américas,1,4
+11,Índice Geral,2020-12-01,5560.59,Américas,1,4
+11,Índice Geral,2021-01-01,5574.49,Américas,1,4
+11,Índice Geral,2021-02-01,5622.43,Américas,1,4
+11,Índice Geral,2021-03-01,5674.72,Américas,1,4
+11,Índice Geral,2021-04-01,5692.31,Américas,1,4
+11,Índice Geral,2021-05-01,5739.56,Américas,1,4
+11,Índice Geral,2021-06-01,5769.98,Américas,1,4
+11,Índice Geral,2021-07-01,5825.37,Américas,1,4
+11,Índice Geral,2021-08-01,5876.05,Américas,1,4
+11,Índice Geral,2021-09-01,5944.21,Américas,1,4
+11,Índice Geral,2021-10-01,6018.51,Américas,1,4
+11,Índice Geral,2021-11-01,6075.69,Américas,1,4
+11,Índice Geral,2021-12-01,6120.04,Américas,1,4
+11,Índice Geral,2022-01-01,6153.09,Américas,1,4
+11,Índice Geral,2022-02-01,6215.24,Américas,1,4
+11,Índice Geral,2022-03-01,6315.93,Américas,1,4
+11,Índice Geral,2022-04-01,6382.88,Américas,1,4
+11,Índice Geral,2022-05-01,6412.88,Américas,1,4
+11,Índice Geral,2022-06-01,6455.85,Américas,1,4
+11,Índice Geral,2022-07-01,6411.95,Américas,1,4
+11,Índice Geral,2022-08-01,6388.87,Américas,1,4
+11,Índice Geral,2022-09-01,6370.34,Américas,1,4
+11,Índice Geral,2022-10-01,6407.93,Américas,1,4
+11,Índice Geral,2022-11-01,6434.2,Américas,1,4
+11,Índice Geral,2022-12-01,6474.09,Américas,1,4
+124518,Importações Europa,2016-01-01,94.7,Américas,5,6
+124518,Importações Europa,2016-02-01,93,Américas,5,6
+124518,Importações Europa,2016-03-01,96.1,Américas,5,6
+124518,Importações Europa,2016-04-01,97.5,Américas,5,6
+124518,Importações Europa,2016-05-01,97.2,Américas,5,6
+124518,Importações Europa,2016-06-01,98.1,Américas,5,6
+124518,Importações Europa,2016-07-01,106,Américas,5,6
+124518,Importações Europa,2016-08-01,114.1,Américas,5,6
+124518,Importações Europa,2016-09-01,103.2,Américas,5,6
+124518,Importações Europa,2016-10-01,98.9,Américas,5,6
+124518,Importações Europa,2016-11-01,95.5,Américas,5,6
+124518,Importações Europa,2016-12-01,102,Américas,5,6
+124518,Importações Europa,2017-01-01,95.3,Américas,5,6
+124518,Importações Europa,2017-02-01,98.6,Américas,5,6
+124518,Importações Europa,2017-03-01,102,Américas,5,6
+124518,Importações Europa,2017-04-01,113.4,Américas,5,6
+124518,Importações Europa,2017-05-01,105.4,Américas,5,6
+124518,Importações Europa,2017-06-01,108.8,Américas,5,6
+124518,Importações Europa,2017-07-01,114.3,Américas,5,6
+124518,Importações Europa,2017-08-01,126.7,Américas,5,6
+124518,Importações Europa,2017-09-01,109.6,Américas,5,6
+124518,Importações Europa,2017-10-01,103.8,Américas,5,6
+124518,Importações Europa,2017-11-01,100.5,Américas,5,6
+124518,Importações Europa,2017-12-01,108.8,Américas,5,6
+124518,Importações Europa,2018-01-01,97.3,Américas,5,6
+124518,Importações Europa,2018-02-01,102,Américas,5,6
+124518,Importações Europa,2018-03-01,107.7,Américas,5,6
+124518,Importações Europa,2018-04-01,108.1,Américas,5,6
+124518,Importações Europa,2018-05-01,108.3,Américas,5,6
+124518,Importações Europa,2018-06-01,115.8,Américas,5,6
+124518,Importações Europa,2018-07-01,117.2,Américas,5,6
+124518,Importações Europa,2018-08-01,133.3,Américas,5,6
+124518,Importações Europa,2018-09-01,114.9,Américas,5,6
+124518,Importações Europa,2018-10-01,107.5,Américas,5,6
+124518,Importações Europa,2018-11-01,104.7,Américas,5,6
+124518,Importações Europa,2018-12-01,108,Américas,5,6
+124518,Importações Europa,2019-01-01,102.3,Américas,5,6
+124518,Importações Europa,2019-02-01,102.6,Américas,5,6
+124518,Importações Europa,2019-03-01,106.7,Américas,5,6
+124518,Importações Europa,2019-04-01,115.2,Américas,5,6
+124518,Importações Europa,2019-05-01,112.1,Américas,5,6
+124518,Importações Europa,2019-06-01,119.3,Américas,5,6
+124518,Importações Europa,2019-07-01,121.9,Américas,5,6
+124518,Importações Europa,2019-08-01,138.1,Américas,5,6
+124518,Importações Europa,2019-09-01,114.6,Américas,5,6
+124518,Importações Europa,2019-10-01,111.9,Américas,5,6
+124518,Importações Europa,2019-11-01,107.2,Américas,5,6
+124518,Importações Europa,2019-12-01,110.2,Américas,5,6
+124518,Importações Europa,2020-01-01,109.6,Américas,5,6
+124518,Importações Europa,2020-02-01,106.4,Américas,5,6
+124518,Importações Europa,2020-03-01,107.1,Américas,5,6
+124518,Importações Europa,2020-04-01,115.2,Américas,5,6
+124518,Importações Europa,2020-05-01,112,Américas,5,6
+124518,Importações Europa,2020-06-01,118,Américas,5,6
+124518,Importações Europa,2020-07-01,117.1,Américas,5,6
+124518,Importações Europa,2020-08-01,128,Américas,5,6
+124518,Importações Europa,2020-09-01,107.1,Américas,5,6
+124518,Importações Europa,2020-10-01,103.1,Américas,5,6
+124518,Importações Europa,2020-11-01,99.9,Américas,5,6
+124518,Importações Europa,2020-12-01,106.3,Américas,5,6
+194204,Derivados de leite,2017-01-01,1081.851469,Europa,4,2
+194204,Derivados de leite,2017-02-01,1766.520181,Europa,4,2
+194204,Derivados de leite,2017-03-01,977.638416,Europa,4,2
+194204,Derivados de leite,2017-04-01,2159.130094,Europa,4,2
+194204,Derivados de leite,2017-05-01,1075.973584,Europa,4,2
+194204,Derivados de leite,2017-06-01,1111.409504,Europa,4,2
+194204,Derivados de leite,2017-07-01,730.540089,Europa,4,2
+194204,Derivados de leite,2017-08-01,15870.31653,Europa,4,2
+194204,Derivados de leite,2017-09-01,5569.092832,Europa,4,2
+194204,Derivados de leite,2017-10-01,7172.149425,Europa,4,2
+194204,Derivados de leite,2017-11-01,4281.555288,Europa,4,2
+194204,Derivados de leite,2017-12-01,3820.002805,Europa,4,2
+194204,Derivados de leite,2018-01-01,2703.730632,Europa,4,2
+194204,Derivados de leite,2018-02-01,3416.134496,Europa,4,2
+194204,Derivados de leite,2018-03-01,2383.288376,Europa,4,2
+194204,Derivados de leite,2018-04-01,2462.508052,Europa,4,2
+194204,Derivados de leite,2018-05-01,1616.792896,Europa,4,2
+194204,Derivados de leite,2018-06-01,1362.774701,Europa,4,2
+194204,Derivados de leite,2018-07-01,1483.370513,Europa,4,2
+194204,Derivados de leite,2018-08-01,1113.620556,Europa,4,2
+194204,Derivados de leite,2018-09-01,868.056547,Europa,4,2
+194204,Derivados de leite,2018-10-01,839.327076,Europa,4,2
+194204,Derivados de leite,2018-11-01,581.674541,Europa,4,2
+194204,Derivados de leite,2018-12-01,476.158767,Europa,4,2
+194204,Derivados de leite,2019-01-01,354.107227,Europa,4,2
+194204,Derivados de leite,2019-02-01,1514.88736,Europa,4,2
+194204,Derivados de leite,2019-03-01,4520.664862,Europa,4,2
+194204,Derivados de leite,2019-04-01,12539.18407,Europa,4,2
+194204,Derivados de leite,2019-05-01,5711.244626,Europa,4,2
+194204,Derivados de leite,2019-06-01,7992.953357,Europa,4,2
+194204,Derivados de leite,2019-07-01,4645.663473,Europa,4,2
+194204,Derivados de leite,2019-08-01,4214.399223,Europa,4,2
+194204,Derivados de leite,2019-09-01,2958.982437,Europa,4,2
+194204,Derivados de leite,2019-10-01,2416.252083,Europa,4,2
+194204,Derivados de leite,2019-11-01,1798.069922,Europa,4,2
+194204,Derivados de leite,2019-12-01,2334.690002,Europa,4,2
+194204,Derivados de leite,2020-01-01,1415.245393,Europa,4,2
+194204,Derivados de leite,2020-02-01,2105.145132,Europa,4,2
+194204,Derivados de leite,2020-03-01,1468.707525,Europa,4,2
+194204,Derivados de leite,2020-04-01,1218.395561,Europa,4,2
+194204,Derivados de leite,2020-05-01,970.416159,Europa,4,2
+194204,Derivados de leite,2020-06-01,752.970187,Europa,4,2
+194204,Derivados de leite,2020-07-01,2121.227449,Europa,4,2
+194204,Derivados de leite,2020-08-01,1108.232545,Europa,4,2
+194204,Derivados de leite,2020-09-01,1715.486665,Europa,4,2
+194204,Derivados de leite,2020-10-01,1113.239737,Europa,4,2
+194204,Derivados de leite,2020-11-01,5640.2688,Europa,4,2
+194204,Derivados de leite,2020-12-01,2280.592255,Europa,4,2
+194204,Derivados de leite,2021-01-01,3051.125113,Europa,4,2
+194204,Derivados de leite,2021-02-01,1780.944311,Europa,4,2
+194204,Derivados de leite,2021-03-01,1665.898142,Europa,4,2
+194204,Derivados de leite,2021-04-01,1173.107845,Europa,4,2
+194204,Derivados de leite,2021-05-01,2176.761886,Europa,4,2
+194204,Derivados de leite,2021-06-01,1429.855941,Europa,4,2
+194204,Derivados de leite,2021-07-01,1226.508521,Europa,4,2
+194204,Derivados de leite,2021-08-01,887.117997,Europa,4,2
+194204,Derivados de leite,2021-09-01,1984.787423,Europa,4,2
+194204,Derivados de leite,2021-10-01,980.612511,Europa,4,2
+194204,Derivados de leite,2021-11-01,5737.279978,Europa,4,2
+194204,Derivados de leite,2021-12-01,2274.795902,Europa,4,2
+40855,Gases,2018-01-01,0.407216,Américas,3,2
+40855,Gases,2018-02-01,0.397096,Américas,3,2
+40855,Gases,2018-03-01,0.387614,Américas,3,2
+40855,Gases,2018-04-01,0.445183,Américas,3,2
+40855,Gases,2018-05-01,0.454346,Américas,3,2
+40855,Gases,2018-06-01,0.511694,Américas,3,2
+40855,Gases,2018-07-01,0.413538,Américas,3,2
+40855,Gases,2018-08-01,0.484684,Américas,3,2
+40855,Gases,2018-09-01,0.685219,Américas,3,2
+40855,Gases,2018-10-01,0.552824,Américas,3,2
+40855,Gases,2018-11-01,0.637927,Américas,3,2
+40855,Gases,2018-12-01,0.756476,Américas,3,2
+40855,Gases,2019-01-01,0.645749,Américas,3,2
+40855,Gases,2019-02-01,1.501516,Américas,3,2
+40855,Gases,2019-03-01,1.443944,Américas,3,2
+40855,Gases,2019-04-01,1.165186,Américas,3,2
+40855,Gases,2019-05-01,1.500975,Américas,3,2
+40855,Gases,2019-06-01,1.221352,Américas,3,2
+40855,Gases,2019-07-01,1.113054,Américas,3,2
+40855,Gases,2019-08-01,1.405259,Américas,3,2
+40855,Gases,2019-09-01,0.919628,Américas,3,2
+40855,Gases,2019-10-01,0.913119,Américas,3,2
+40855,Gases,2019-11-01,0.929862,Américas,3,2
+40855,Gases,2019-12-01,1.110799,Américas,3,2
+40855,Gases,2020-01-01,0.830269,Américas,3,2
+40855,Gases,2020-02-01,0.792151,Américas,3,2
+40855,Gases,2020-03-01,0.856585,Américas,3,2
+40855,Gases,2020-04-01,0.918504,Américas,3,2
+40855,Gases,2020-05-01,1.242067,Américas,3,2
+40855,Gases,2020-06-01,1.237012,Américas,3,2
+40855,Gases,2020-07-01,1.744741,Américas,3,2
+40855,Gases,2020-08-01,1.426554,Américas,3,2
+40855,Gases,2020-09-01,1.679711,Américas,3,2
+40855,Gases,2020-10-01,1.399876,Américas,3,2
+40855,Gases,2020-11-01,1.425074,Américas,3,2
+40855,Gases,2020-12-01,1.239177,Américas,3,2
+40855,Gases,2021-01-01,1.364996,Américas,3,2
+40855,Gases,2021-02-01,1.159193,Américas,3,2
+40855,Gases,2021-03-01,1.0041,Américas,3,2
+40855,Gases,2021-04-01,1.11313,Américas,3,2
+40855,Gases,2021-05-01,1.06979,Américas,3,2
+40855,Gases,2021-06-01,1.081753,Américas,3,2
+40855,Gases,2021-07-01,8.322547,Américas,3,2
+40855,Gases,2021-08-01,8.203062,Américas,3,2
+40855,Gases,2021-09-01,4.594126,Américas,3,2
+40855,Gases,2021-10-01,7.039912,Américas,3,2
+40855,Gases,2021-11-01,59.543121,Américas,3,2
+40855,Gases,2021-12-01,59.954856,Américas,3,2
+40855,Gases,2022-01-01,6.556665,Américas,3,2
+40855,Gases,2022-02-01,6.451615,Américas,3,2
+40855,Gases,2022-03-01,6.466984,Américas,3,2
+40855,Gases,2022-04-01,5.520111,Américas,3,2
+40855,Gases,2022-05-01,3.944559,Américas,3,2
+40855,Gases,2022-06-01,3.284084,Américas,3,2
+40855,Gases,2022-07-01,2.524713,Américas,3,2
+40855,Gases,2022-08-01,3.167131,Américas,3,2
+40855,Gases,2022-09-01,9.206608,Américas,3,2
+40855,Gases,2022-10-01,9.201382,Américas,3,2
+40855,Gases,2022-11-01,5.475662,Américas,3,2
+40855,Gases,2022-12-01,6.558174,Américas,3,2
+48642,Sementes,2017-09-01,2.070967,Américas,2,1
+48642,Sementes,2017-10-01,2.074642,Américas,2,1
+48642,Sementes,2017-11-01,2.061943,Américas,2,1
+48642,Sementes,2017-12-01,1.984734,Américas,2,1
+48642,Sementes,2018-01-01,1.983863,Américas,2,1
+48642,Sementes,2018-02-01,1.950085,Américas,2,1
+48642,Sementes,2018-03-01,1.975708,Américas,2,1
+48642,Sementes,2018-04-01,1.901336,Américas,2,1
+48642,Sementes,2018-05-01,1.963118,Américas,2,1
+48642,Sementes,2018-06-01,1.908489,Américas,2,1
+48642,Sementes,2018-07-01,1.878837,Américas,2,1
+48642,Sementes,2018-08-01,1.885338,Américas,2,1
+48642,Sementes,2018-09-01,1.967359,Américas,2,1
+48642,Sementes,2018-10-01,2.043891,Américas,2,1
+48642,Sementes,2018-11-01,2.140603,Américas,2,1
+48642,Sementes,2018-12-01,2.259716,Américas,2,1
+48642,Sementes,2019-01-01,2.313394,Américas,2,1
+48642,Sementes,2019-02-01,2.442853,Américas,2,1
+48642,Sementes,2019-03-01,2.422126,Américas,2,1
+48642,Sementes,2019-04-01,2.477869,Américas,2,1
+48642,Sementes,2019-05-01,2.469485,Américas,2,1
+48642,Sementes,2019-06-01,2.548527,Américas,2,1
+48642,Sementes,2019-07-01,2.440283,Américas,2,1
+48642,Sementes,2019-08-01,2.472429,Américas,2,1
+48642,Sementes,2019-09-01,2.427702,Américas,2,1
+48642,Sementes,2019-10-01,2.384069,Américas,2,1
+48642,Sementes,2019-11-01,2.395076,Américas,2,1
+48642,Sementes,2019-12-01,2.293647,Américas,2,1
+48642,Sementes,2020-01-01,2.330678,Américas,2,1
+48642,Sementes,2020-02-01,2.27455,Américas,2,1
+48642,Sementes,2020-03-01,2.321142,Américas,2,1
+48642,Sementes,2020-04-01,2.242236,Américas,2,1
+48642,Sementes,2020-05-01,2.285599,Américas,2,1
+48642,Sementes,2020-06-01,2.208446,Américas,2,1
+48642,Sementes,2020-07-01,2.169231,Américas,2,1
+48642,Sementes,2020-08-01,2.11186,Américas,2,1
+48642,Sementes,2020-09-01,2.052635,Américas,2,1
+48642,Sementes,2020-10-01,2.021663,Américas,2,1
+48642,Sementes,2020-11-01,2.012092,Américas,2,1
+48642,Sementes,2020-12-01,1.9812,Américas,2,1
+48642,Sementes,2021-01-01,1.905724,Américas,2,1
+48642,Sementes,2021-02-01,1.875676,Américas,2,1
+48642,Sementes,2021-03-01,1.887672,Américas,2,1
+48642,Sementes,2021-04-01,1.859965,Américas,2,1
+48642,Sementes,2021-05-01,1.822057,Américas,2,1
+48642,Sementes,2021-06-01,1.832795,Américas,2,1
+48642,Sementes,2021-07-01,1.880316,Américas,2,1
+48642,Sementes,2021-08-01,1.776554,Américas,2,1
+48642,Sementes,2021-09-01,1.832436,Américas,2,1
+48642,Sementes,2021-10-01,1.779995,Américas,2,1
+48642,Sementes,2021-11-01,1.72401,Américas,2,1
+48642,Sementes,2021-12-01,1.74509,Américas,2,1
+48642,Sementes,2022-01-01,1.68167,Américas,2,1
+48642,Sementes,2022-02-01,1.701692,Américas,2,1
+48642,Sementes,2022-03-01,1.850183,Américas,2,1
+48642,Sementes,2022-04-01,1.850183,Américas,2,1
+48642,Sementes,2022-05-01,1.850183,Américas,2,1
+48642,Sementes,2022-06-01,1.848773,Américas,2,1
+48642,Sementes,2022-07-01,1.733002,Américas,2,1
+48642,Sementes,2022-08-01,1.736218,Américas,2,1
+48957,Frutas,2019-06-01,24.063223,Américas,3,1
+48957,Frutas,2019-07-01,25.555367,Américas,3,1
+48957,Frutas,2019-08-01,22.989409,Américas,3,1
+48957,Frutas,2019-09-01,26.893763,Américas,3,1
+48957,Frutas,2019-10-01,25.450495,Américas,3,1
+48957,Frutas,2019-11-01,25.535736,Américas,3,1
+48957,Frutas,2019-12-01,26.752387,Américas,3,1
+48957,Frutas,2020-01-01,32.602032,Américas,3,1
+48957,Frutas,2020-02-01,25.140569,Américas,3,1
+48957,Frutas,2020-03-01,29.829305,Américas,3,1
+48957,Frutas,2020-04-01,23.127059,Américas,3,1
+48957,Frutas,2020-05-01,22.366967,Américas,3,1
+48957,Frutas,2020-06-01,21.990299,Américas,3,1
+48957,Frutas,2020-07-01,20.640658,Américas,3,1
+48957,Frutas,2020-08-01,22.395465,Américas,3,1
+48957,Frutas,2020-09-01,18.662061,Américas,3,1
+48957,Frutas,2020-10-01,24.022581,Américas,3,1
+48957,Frutas,2020-11-01,21.451869,Américas,3,1
+48957,Frutas,2020-12-01,22.083272,Américas,3,1
+48957,Frutas,2021-01-01,21.285822,Américas,3,1
+48957,Frutas,2021-02-01,20.33981,Américas,3,1
+48957,Frutas,2021-03-01,20.015631,Américas,3,1
+48957,Frutas,2021-04-01,19.07628,Américas,3,1
+48957,Frutas,2021-05-01,18.574,Américas,3,1
+48957,Frutas,2021-06-01,17.441789,Américas,3,1
+48957,Frutas,2021-07-01,19.889098,Américas,3,1
+48957,Frutas,2021-08-01,20.084336,Américas,3,1
+48957,Frutas,2021-09-01,19.165547,Américas,3,1
+48957,Frutas,2021-10-01,19.419891,Américas,3,1
+48957,Frutas,2021-11-01,24.015372,Américas,3,1
+48957,Frutas,2021-12-01,20.570953,Américas,3,1
+48957,Frutas,2022-01-01,24.554663,Américas,3,1
+48957,Frutas,2022-02-01,20.918049,Américas,3,1
+48957,Frutas,2022-03-01,21.094641,Américas,3,1
+48957,Frutas,2022-04-01,23.176306,Américas,3,1
+48957,Frutas,2022-05-01,18.596339,Américas,3,1
+48957,Frutas,2022-06-01,18.883636,Américas,3,1
+48957,Frutas,2022-07-01,17.538589,Américas,3,1
+48957,Frutas,2022-08-01,16.377051,Américas,3,1
+48957,Frutas,2022-09-01,18.698429,Américas,3,1
+48957,Frutas,2022-10-01,18.229962,Américas,3,1
+48957,Frutas,2022-11-01,20.215379,Américas,3,1
+48957,Frutas,2022-12-01,19.804628,Américas,3,1
+48957,Frutas,2023-01-01,18.964406,Américas,3,1
+48957,Frutas,2023-02-01,17.075508,Américas,3,1
+48957,Frutas,2023-03-01,15.005505,Américas,3,1
+48957,Frutas,2023-04-01,18.056641,Américas,3,1
+48957,Frutas,2023-05-01,14.71946,Américas,3,1
+48957,Frutas,2023-06-01,16.823048,Américas,3,1
+48957,Frutas,2023-07-01,26.100771,Américas,3,1
+48957,Frutas,2023-08-01,13.93594,Américas,3,1
+48957,Frutas,2023-09-01,18.330229,Américas,3,1
+48957,Frutas,2023-10-01,13.625353,Américas,3,1
+48957,Frutas,2023-11-01,12.555298,Américas,3,1
+48957,Frutas,2023-12-01,15.545971,Américas,3,1
+48957,Frutas,2024-01-01,12.071726,Américas,3,1
+48957,Frutas,2024-02-01,15.648137,Américas,3,1
+48957,Frutas,2024-03-01,14.269958,Américas,3,1
+48957,Frutas,2024-04-01,13.058723,Américas,3,1
+48957,Frutas,2024-05-01,13.899712,Américas,3,1
+50110,Máquinas agrícolas,2017-09-01,2081.256771,Europa,3,5
+50110,Máquinas agrícolas,2017-10-01,2194.219653,Europa,3,5
+50110,Máquinas agrícolas,2017-11-01,2194.219653,Europa,3,5
+50110,Máquinas agrícolas,2017-12-01,2194.219653,Europa,3,5
+50110,Máquinas agrícolas,2018-01-01,2338.965153,Europa,3,5
+50110,Máquinas agrícolas,2018-02-01,2338.965153,Europa,3,5
+50110,Máquinas agrícolas,2018-03-01,2338.965153,Europa,3,5
+50110,Máquinas agrícolas,2018-04-01,2656.174334,Europa,3,5
+50110,Máquinas agrícolas,2018-05-01,2656.174334,Europa,3,5
+50110,Máquinas agrícolas,2018-06-01,2656.174334,Europa,3,5
+50110,Máquinas agrícolas,2018-07-01,2796.432319,Europa,3,5
+50110,Máquinas agrícolas,2018-08-01,2796.432319,Europa,3,5
+50110,Máquinas agrícolas,2018-09-01,2796.432319,Europa,3,5
+50110,Máquinas agrícolas,2018-10-01,2828.69379,Europa,3,5
+50110,Máquinas agrícolas,2018-11-01,2828.69379,Europa,3,5
+50110,Máquinas agrícolas,2018-12-01,2828.69379,Europa,3,5
+50110,Máquinas agrícolas,2019-01-01,2711.883408,Europa,3,5
+50110,Máquinas agrícolas,2019-02-01,2711.883408,Europa,3,5
+50110,Máquinas agrícolas,2019-03-01,2711.883408,Europa,3,5
+50110,Máquinas agrícolas,2019-04-01,2610.250298,Europa,3,5
+50110,Máquinas agrícolas,2019-05-01,2610.250298,Europa,3,5
+50110,Máquinas agrícolas,2019-06-01,2610.250298,Europa,3,5
+50110,Máquinas agrícolas,2019-07-01,2595.813019,Europa,3,5
+50110,Máquinas agrícolas,2019-08-01,2595.813019,Europa,3,5
+50110,Máquinas agrícolas,2019-09-01,2595.813019,Europa,3,5
+50110,Máquinas agrícolas,2019-10-01,2511.628383,Europa,3,5
+50110,Máquinas agrícolas,2019-11-01,2511.628383,Europa,3,5
+50110,Máquinas agrícolas,2019-12-01,2511.628383,Europa,3,5
+50110,Máquinas agrícolas,2020-01-01,2502.396918,Europa,3,5
+50110,Máquinas agrícolas,2020-02-01,2502.396918,Europa,3,5
+50110,Máquinas agrícolas,2020-03-01,2502.396918,Europa,3,5
+50110,Máquinas agrícolas,2020-04-01,2863.612882,Europa,3,5
+50110,Máquinas agrícolas,2020-05-01,2863.612882,Europa,3,5
+50110,Máquinas agrícolas,2020-06-01,2863.612882,Europa,3,5
+50110,Máquinas agrícolas,2020-07-01,2806.555959,Europa,3,5
+50110,Máquinas agrícolas,2020-08-01,2806.555959,Europa,3,5
+50110,Máquinas agrícolas,2020-09-01,2806.555959,Europa,3,5
+50110,Máquinas agrícolas,2020-10-01,2916.326696,Europa,3,5
+50110,Máquinas agrícolas,2020-11-01,2916.326696,Europa,3,5
+50110,Máquinas agrícolas,2020-12-01,2916.326696,Europa,3,5
+50110,Máquinas agrícolas,2021-01-01,3126.047614,Europa,3,5
+50110,Máquinas agrícolas,2021-02-01,3126.047614,Europa,3,5
+50110,Máquinas agrícolas,2021-03-01,3126.047614,Europa,3,5
+50110,Máquinas agrícolas,2021-04-01,3690.697542,Europa,3,5
+50110,Máquinas agrícolas,2021-05-01,3690.697542,Europa,3,5
+50110,Máquinas agrícolas,2021-06-01,3690.697542,Europa,3,5
+50110,Máquinas agrícolas,2021-07-01,4133.965302,Europa,3,5
+50110,Máquinas agrícolas,2021-08-01,4133.965302,Europa,3,5
+50110,Máquinas agrícolas,2021-09-01,4133.965302,Europa,3,5
+50110,Máquinas agrícolas,2021-10-01,4834.969011,Europa,3,5
+50110,Máquinas agrícolas,2021-11-01,4834.969011,Europa,3,5
+50110,Máquinas agrícolas,2021-12-01,4834.969011,Europa,3,5
+50110,Máquinas agrícolas,2022-01-01,4880.943281,Europa,3,5
+50110,Máquinas agrícolas,2022-02-01,4880.943281,Europa,3,5
+50110,Máquinas agrícolas,2022-03-01,4880.943281,Europa,3,5
+50110,Máquinas agrícolas,2022-04-01,4894.49792,Europa,3,5
+50110,Máquinas agrícolas,2022-05-01,4894.49792,Europa,3,5
+50110,Máquinas agrícolas,2022-06-01,4894.49792,Europa,3,5
+50110,Máquinas agrícolas,2022-07-01,5199.495501,Europa,3,5
+50110,Máquinas agrícolas,2022-08-01,5199.495501,Europa,3,5
+51726,Grãos,2017-03-01,0.396696,Ásia,2,7
+51726,Grãos,2017-04-01,0.414402,Ásia,2,7
+51726,Grãos,2017-05-01,0.367256,Ásia,2,7
+51726,Grãos,2017-06-01,0.457646,Ásia,2,7
+51726,Grãos,2017-07-01,0.36583,Ásia,2,7
+51726,Grãos,2017-08-01,0.368282,Ásia,2,7
+51726,Grãos,2017-09-01,0.330086,Ásia,2,7
+51726,Grãos,2017-10-01,0.335476,Ásia,2,7
+51726,Grãos,2017-11-01,0.317983,Ásia,2,7
+51726,Grãos,2017-12-01,0.327102,Ásia,2,7
+51726,Grãos,2018-01-01,0.306171,Ásia,2,7
+51726,Grãos,2018-02-01,0.335702,Ásia,2,7
+51726,Grãos,2018-03-01,0.322901,Ásia,2,7
+51726,Grãos,2018-04-01,0.355709,Ásia,2,7
+51726,Grãos,2018-05-01,0.395949,Ásia,2,7
+51726,Grãos,2018-06-01,0.416486,Ásia,2,7
+51726,Grãos,2018-07-01,0.457558,Ásia,2,7
+51726,Grãos,2018-08-01,0.406288,Ásia,2,7
+51726,Grãos,2018-09-01,0.458256,Ásia,2,7
+51726,Grãos,2018-10-01,0.398768,Ásia,2,7
+51726,Grãos,2018-11-01,0.38748,Ásia,2,7
+51726,Grãos,2018-12-01,0.417735,Ásia,2,7
+51726,Grãos,2019-01-01,0.402181,Ásia,2,7
+51726,Grãos,2019-02-01,0.548071,Ásia,2,7
+51726,Grãos,2019-03-01,0.471726,Ásia,2,7
+51726,Grãos,2019-04-01,0.468983,Ásia,2,7
+51726,Grãos,2019-05-01,0.47899,Ásia,2,7
+51726,Grãos,2019-06-01,0.522148,Ásia,2,7
+51726,Grãos,2019-07-01,0.548912,Ásia,2,7
+51726,Grãos,2019-08-01,0.61756,Ásia,2,7
+51726,Grãos,2019-09-01,0.584892,Ásia,2,7
+51726,Grãos,2019-10-01,0.558802,Ásia,2,7
+51726,Grãos,2019-11-01,0.690603,Ásia,2,7
+51726,Grãos,2019-12-01,0.553833,Ásia,2,7
+51726,Grãos,2020-01-01,0.553083,Ásia,2,7
+51726,Grãos,2020-02-01,0.499672,Ásia,2,7
+51726,Grãos,2020-03-01,0.463064,Ásia,2,7
+51726,Grãos,2020-04-01,0.428597,Ásia,2,7
+51726,Grãos,2020-05-01,0.414627,Ásia,2,7
+51726,Grãos,2020-06-01,0.549093,Ásia,2,7
+51726,Grãos,2020-07-01,0.570261,Ásia,2,7
+51726,Grãos,2020-08-01,0.658158,Ásia,2,7
+51726,Grãos,2020-09-01,0.512595,Ásia,2,7
+51726,Grãos,2020-10-01,0.511068,Ásia,2,7
+51726,Grãos,2020-11-01,0.469365,Ásia,2,7
+51726,Grãos,2020-12-01,0.595183,Ásia,2,7
+51726,Grãos,2021-01-01,0.573567,Ásia,2,7
+51726,Grãos,2021-02-01,0.593964,Ásia,2,7
+51726,Grãos,2021-03-01,0.584897,Ásia,2,7
+51726,Grãos,2021-04-01,0.560999,Ásia,2,7
+51726,Grãos,2021-05-01,0.575283,Ásia,2,7
+51726,Grãos,2021-06-01,0.586819,Ásia,2,7
+51726,Grãos,2021-07-01,0.667659,Ásia,2,7
+51726,Grãos,2021-08-01,0.573581,Ásia,2,7
+51726,Grãos,2021-09-01,0.721379,Ásia,2,7
+51726,Grãos,2021-10-01,0.699506,Ásia,2,7
+51726,Grãos,2021-11-01,0.735833,Ásia,2,7
+51726,Grãos,2021-12-01,0.744704,Ásia,2,7
+51726,Grãos,2022-01-01,0.757744,Ásia,2,7
+51726,Grãos,2022-02-01,0.83351,Ásia,2,7
+8052,Ferramentas,2018-01-01,7.639235,Europa,1,4
+8052,Ferramentas,2018-02-01,7.718683,Europa,1,4
+8052,Ferramentas,2018-03-01,7.751873,Europa,1,4
+8052,Ferramentas,2018-04-01,8.127064,Europa,1,4
+8052,Ferramentas,2018-05-01,8.213211,Europa,1,4
+8052,Ferramentas,2018-06-01,8.600874,Europa,1,4
+8052,Ferramentas,2018-07-01,8.698924,Europa,1,4
+8052,Ferramentas,2018-08-01,8.926836,Europa,1,4
+8052,Ferramentas,2018-09-01,9.120549,Europa,1,4
+8052,Ferramentas,2018-10-01,9.240028,Europa,1,4
+8052,Ferramentas,2018-11-01,9.2659,Europa,1,4
+8052,Ferramentas,2018-12-01,9.353926,Europa,1,4
+8052,Ferramentas,2019-01-01,9.417533,Europa,1,4
+8052,Ferramentas,2019-02-01,9.384571,Europa,1,4
+8052,Ferramentas,2019-03-01,9.288849,Europa,1,4
+8052,Ferramentas,2019-04-01,9.401244,Europa,1,4
+8052,Ferramentas,2019-05-01,9.417226,Europa,1,4
+8052,Ferramentas,2019-06-01,9.420993,Europa,1,4
+8052,Ferramentas,2019-07-01,9.388961,Europa,1,4
+8052,Ferramentas,2019-08-01,9.374878,Europa,1,4
+8052,Ferramentas,2019-09-01,9.498626,Europa,1,4
+8052,Ferramentas,2019-10-01,9.513824,Europa,1,4
+8052,Ferramentas,2019-11-01,9.654629,Europa,1,4
+8052,Ferramentas,2019-12-01,9.695178,Europa,1,4
+8052,Ferramentas,2020-01-01,9.821215,Europa,1,4
+8052,Ferramentas,2020-02-01,9.831037,Europa,1,4
+8052,Ferramentas,2020-03-01,9.742557,Europa,1,4
+8052,Ferramentas,2020-04-01,9.846803,Europa,1,4
+8052,Ferramentas,2020-05-01,9.929516,Europa,1,4
+8052,Ferramentas,2020-06-01,10.040726,Europa,1,4
+8052,Ferramentas,2020-07-01,10.083902,Europa,1,4
+8052,Ferramentas,2020-08-01,10.451964,Europa,1,4
+8052,Ferramentas,2020-09-01,10.567981,Europa,1,4
+8052,Ferramentas,2020-10-01,10.931519,Europa,1,4
+8052,Ferramentas,2020-11-01,11.202621,Europa,1,4
+8052,Ferramentas,2020-12-01,11.372901,Europa,1,4
+8052,Ferramentas,2021-01-01,12.017744,Europa,1,4
+8052,Ferramentas,2021-02-01,12.736405,Europa,1,4
+8052,Ferramentas,2021-03-01,13.421624,Europa,1,4
+8052,Ferramentas,2021-04-01,13.78535,Europa,1,4
+8052,Ferramentas,2021-05-01,14.156176,Europa,1,4
+8052,Ferramentas,2021-06-01,14.446377,Europa,1,4
+8052,Ferramentas,2021-07-01,14.826317,Europa,1,4
+8052,Ferramentas,2021-08-01,15.905673,Europa,1,4
+8052,Ferramentas,2021-09-01,15.915216,Europa,1,4
+8052,Ferramentas,2021-10-01,16.088692,Europa,1,4
+8052,Ferramentas,2021-11-01,16.601922,Europa,1,4
+8052,Ferramentas,2021-12-01,17.244416,Europa,1,4
+8052,Ferramentas,2022-01-01,17.515153,Europa,1,4
+8052,Ferramentas,2022-02-01,17.91625,Europa,1,4
+8052,Ferramentas,2022-03-01,18.262034,Europa,1,4
+8052,Ferramentas,2022-04-01,19.180614,Europa,1,4
+8052,Ferramentas,2022-05-01,20.003463,Europa,1,4
+8052,Ferramentas,2022-06-01,19.809429,Europa,1,4
+8052,Ferramentas,2022-07-01,19.668782,Europa,1,4
+8052,Ferramentas,2022-08-01,19.483896,Europa,1,4
+8052,Ferramentas,2022-09-01,19.082527,Europa,1,4
+8052,Ferramentas,2022-10-01,18.968032,Europa,1,4
+8052,Ferramentas,2022-11-01,18.742313,Europa,1,4
+8052,Ferramentas,2022-12-01,18.99346,Europa,1,4
+94,Plásticos,2015-06-01,11.745319,África,1,3
+94,Plásticos,2015-07-01,11.813744,África,1,3
+94,Plásticos,2015-08-01,12.637225,África,1,3
+94,Plásticos,2015-09-01,10.974218,África,1,3
+94,Plásticos,2015-10-01,11.276742,África,1,3
+94,Plásticos,2015-11-01,10.335482,África,1,3
+94,Plásticos,2015-12-01,10.474113,África,1,3
+94,Plásticos,2016-01-01,9.916701,África,1,3
+94,Plásticos,2016-02-01,8.818621,África,1,3
+94,Plásticos,2016-03-01,9.546519,África,1,3
+94,Plásticos,2016-04-01,8.616935,África,1,3
+94,Plásticos,2016-05-01,9.031575,África,1,3
+94,Plásticos,2016-06-01,8.986145,África,1,3
+94,Plásticos,2016-07-01,9.180431,África,1,3
+94,Plásticos,2016-08-01,8.793523,África,1,3
+94,Plásticos,2016-09-01,9.957919,África,1,3
+94,Plásticos,2016-10-01,9.483515,África,1,3
+94,Plásticos,2016-11-01,8.766784,África,1,3
+94,Plásticos,2016-12-01,9.692455,África,1,3
+94,Plásticos,2017-01-01,9.489583,África,1,3
+94,Plásticos,2017-02-01,9.203018,África,1,3
+94,Plásticos,2017-03-01,9.429727,África,1,3
+94,Plásticos,2017-04-01,9.42373,África,1,3
+94,Plásticos,2017-05-01,9.441407,África,1,3
+94,Plásticos,2017-06-01,8.9789,África,1,3
+94,Plásticos,2017-07-01,8.259847,África,1,3
+94,Plásticos,2017-08-01,8.368165,África,1,3
+94,Plásticos,2017-09-01,8.038938,África,1,3
+94,Plásticos,2017-10-01,8.453376,África,1,3
+94,Plásticos,2017-11-01,8.617044,África,1,3
+94,Plásticos,2017-12-01,8.878949,África,1,3
+94,Plásticos,2018-01-01,8.316957,África,1,3
+94,Plásticos,2018-02-01,7.92716,África,1,3
+94,Plásticos,2018-03-01,7.876632,África,1,3
+94,Plásticos,2018-04-01,7.416056,África,1,3
+94,Plásticos,2018-05-01,8.273739,África,1,3
+94,Plásticos,2018-06-01,8.673322,África,1,3
+94,Plásticos,2018-07-01,9.039425,África,1,3
+94,Plásticos,2018-08-01,9.415093,África,1,3
+94,Plásticos,2018-09-01,9.498162,África,1,3
+94,Plásticos,2018-10-01,8.406786,África,1,3
+94,Plásticos,2018-11-01,8.507613,África,1,3
+94,Plásticos,2018-12-01,9.491251,África,1,3
+94,Plásticos,2019-01-01,9.094729,África,1,3
+94,Plásticos,2019-02-01,9.537034,África,1,3
+94,Plásticos,2019-03-01,8.434369,África,1,3
+94,Plásticos,2019-04-01,9.394964,África,1,3
+94,Plásticos,2019-05-01,9.301129,África,1,3
+94,Plásticos,2019-06-01,9.601838,África,1,3
+94,Plásticos,2019-07-01,9.734574,África,1,3
+94,Plásticos,2019-08-01,9.921361,África,1,3
+94,Plásticos,2019-09-01,10.168095,África,1,3
+94,Plásticos,2019-10-01,9.264544,África,1,3
+94,Plásticos,2019-11-01,10.25952,África,1,3
+94,Plásticos,2019-12-01,9.570891,África,1,3
+94,Plásticos,2020-01-01,9.569626,África,1,3
+94,Plásticos,2020-02-01,9.21345,África,1,3
+94,Plásticos,2020-03-01,8.711406,África,1,3
+94,Plásticos,2020-04-01,8.372781,África,1,3
+94,Plásticos,2020-05-01,8.307674,África,1,3
